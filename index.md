@@ -1,10 +1,7 @@
-# Welcome to the AI Study Group
+# Intro to Artificial Intelligence
+## *(From Search to Reinforcement Learning)*
 
-This site serves as a central hub for our undergraduate research group. Here, we track our progress through Artificial Intelligence fundamentals, focusing on:
-
-* **Search & Logic**
-* **Probabilistic Reasoning**
-* **Machine Learning & Fairness**
+This course explores the fundamental principles and algorithms that allow computers to exhibit intelligent behavior. Rather than focusing solely on static data, we focus on agents—systems that perceive their environment and take actions to achieve goals. We will progress from classical search and logic to modern decision-making under uncertainty, culminating in Reinforcement Learning.
 
 ### Quick Links
 * [View Syllabus](./syllabus)
