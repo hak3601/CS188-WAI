@@ -2,13 +2,8 @@ title: CS 188 Study Group
 description: Collaborative resources for Intro to AI at CAU.
 theme: jekyll-theme-cayman
 
-# Navigation Links
+# Navigation Links (Cayman displays these as buttons in the header)
 header_pages:
   - index.md
   - syllabus.md
   - resources.md
-
-# Build settings
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
